@@ -4,9 +4,9 @@
   <img src="https://www.ithotelero.com/wp-content/uploads/2017/04/Logo-rojo-IMF-tagline-vertical.png">
 </p>
 
-<p>Welcome to the Master's Degree in Data Science and Business Analytics repository! This program is designed to provide you with comprehensive knowledge and practical skills in the field of data science and its applications in business analytics. As a data scientist, you'll play a crucial role in deriving valuable insights and making data-driven decisions.</p>
+<p>I am currently pursuing a Master's Degree in Data Science and Business Analytics, and I am pleased to share my projects with you. This program has provided me with the necessary skills to analyze large datasets and extract valuable information for business decision-making.</p>
 
-<p>Certain projects may be incompatible with GitHub due to their reliance on specific tools or formats like PowerBI or Spoon. These proprietary formats or dependencies are not supported on GitHub. It's advisable to share such projects through alternative channels or platforms designed to handle those formats for proper accessibility and utilization by others. </p>
+<p>I am excited to continue exploring the opportunities presented by the field of data science and business analytics, and to apply what I have learned in this program to solve real-world business problems. Thank you for your interest in my projects! </p>
 
 <p>This master's degree program offers a diverse curriculum that covers various subjects:</p>
 
@@ -37,4 +37,4 @@
 9. <strong>Subject 9: Big Data in Business</strong> 🏢
    - Learn how organizations leverage big data to gain a competitive advantage and drive business growth.
 
-By pursuing this master's degree, you'll be equipped with the necessary skills to excel in the dynamic field of data science and business analytics. Join us on this exciting journey of exploring the vast opportunities and challenges presented by data-driven decision-making in today's business world. 🚀</p>
+Unfortunately, not all of the projects I have completed as a Data Scientist are available in this GitHub repository, as some of the tools I typically use, such as PowerBI, Spoon, etc., are not compatible with this platform. If you are interested in learning more about these projects, please feel free to contact me, and I would be happy to share them with you.🚀</p>
